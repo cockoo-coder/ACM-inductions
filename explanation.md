@@ -7,4 +7,3 @@ I couldn't complete the induction tasks as I always ran into some problem
 
 
 I am still submitting this cause why not, I want to show that I tried and also my dedication, and patience (everything I downloaded was through BITS wifi as my ethernet doesn't work).
-(btw the video you guys gave in resources also doesn't work as it also uses openai, the syntax is old and the code is also showing some errors)
